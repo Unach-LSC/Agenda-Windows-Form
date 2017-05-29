@@ -1,0 +1,96 @@
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+c:\users\alumnos\documents\visual studio 2012\Projects\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+I:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+G:\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+I:\Drive\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+E:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+E:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+E:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+I:\ \UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+C:\Users\MAESTROS\Documents\Visual Studio 2012\Projects\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
+H:\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+H:\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+H:\UNACH.SI.AGENDA.2\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe.config
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD.mdf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\AgendaBD_log.ldf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\bin\Debug\UNACH.SI.AGENDA.APP.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csprojResolveAssemblyReference.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.LOGINFORM.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.MenuPrincipálForm.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Properties.Resources.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.Usuarios.UsuarioForm.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Sistemas de Informacion\UNACH.SI.AGENDA\UNACH.SI.AGENDA.APP\obj\Debug\UNACH.SI.AGENDA.APP.csproj.GenerateResource.Cache
